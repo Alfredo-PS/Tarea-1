@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644698474 source:c:\users\alfre\onedrive\documents\proyectos\tarea1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1644698458 c:\users\alfre\onedrive\documents\proyectos\tarea1\funciones.h
+
+1644698490 source:c:\users\alfre\onedrive\documents\proyectos\tarea1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
